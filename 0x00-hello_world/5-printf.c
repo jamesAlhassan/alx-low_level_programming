@@ -1,6 +1,6 @@
 #include<stdio.h>
-/*
- * Description: main - prints out a string using printf
+/**
+ * main - prints out a string using printf
  * Return: 0 if success
  */
 
