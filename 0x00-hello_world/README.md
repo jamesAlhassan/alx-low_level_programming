@@ -7,3 +7,5 @@
   1-compiler script added - runs C file "$CFILE" throug compiler without linker
 
   2-assembler script added - runs C file "$CFILE" and generates an assembly code with extention .s 
+
+  3-name script - generates an executable  C source code "$CFILE" 
