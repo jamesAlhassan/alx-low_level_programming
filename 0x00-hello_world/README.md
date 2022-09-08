@@ -14,4 +14,4 @@
 
 5-printf.c script - prints the string "with proper grammar, but the outcome is a piece of art" using printf
 
-6-size.c script - prints the sizes of various data types 
+6-size.c script - prints the sizes of various data types on different systems  
