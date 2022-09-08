@@ -13,3 +13,5 @@
 4-puts.c script -      prints the the string "Programming is like building a multilingual puzzle using puts 
 
 5-printf.c script - prints the string "with proper grammar, but the outcome is a piece of art" using printf
+
+6-size.c script - prints the sizes of various data types 
