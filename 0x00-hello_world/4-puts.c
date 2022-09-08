@@ -1,7 +1,6 @@
 #include<stdio.h>
-
 /**
- * Description: main prints out a string "Programming is like building a multilingual puzzle using puts 
+ *Description: main - Pprints out a string
  * Return: 0 if success
  */
 
