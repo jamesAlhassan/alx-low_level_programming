@@ -17,3 +17,5 @@
 6-size.c script - prints the sizes of various data types on different systems  
 
 100-intel script - generates assembly code using "Intel syntax"
+ 
+101-quote.c script - prints to stderr
