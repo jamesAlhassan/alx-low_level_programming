@@ -10,5 +10,6 @@
 
   3-name script - generates an executable  C source code "$CFILE" 
 
-4-puts.c cript-      prints the the string "Programming is like building a multilingual puzzle using puts 
+4-puts.c script -      prints the the string "Programming is like building a multilingual puzzle using puts 
 
+5-printf.c script - prints the string "with proper grammar, but the outcome is a piece of art" using printf
