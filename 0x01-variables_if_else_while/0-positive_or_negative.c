@@ -22,7 +22,7 @@ puts("is zero");
 }
 else
 {
-puts("is negative")
+puts("is negative");
 }
 return (0);
 }
