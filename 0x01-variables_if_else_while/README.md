@@ -3,3 +3,5 @@
 ## Contains scripts relating to these concepts in C- if , if else, else and while
 
 0-positive_or_negative.c script - Checks if a number is negative, positive or zero
+
+1-last_digit.c script - Checks the value of a number and prints and corresponding string
