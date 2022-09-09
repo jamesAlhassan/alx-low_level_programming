@@ -14,7 +14,7 @@ n = rand() - RAND_MAX / 2;
 /* your code goes there */
 if (n > 0)
 {
-printf("%d is %\ns", positive);
+printf("%d is %s\n", positive);
 }
 else if (n == 0)
 {
