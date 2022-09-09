@@ -2,10 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - Checks if positive,zero or negative 
- *return : 0 if success
+ * main - Checks if positive,zero or negative.
+ * Return: 0 if success
  */
-
 int main(void)
 {
 int n;
