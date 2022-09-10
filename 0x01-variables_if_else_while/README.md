@@ -9,3 +9,5 @@
 3-print_alphabets.c script - Prints all alphabets in lower and upper case
 4-print_alphabt.c script -  Prints all the alphabets in lower case excluding q and e
 5-print_numbers.c script - Prints numbers from 0- 9
+
+6-print_numberz.c script - Prints numbers from 0 -9 using putchar
