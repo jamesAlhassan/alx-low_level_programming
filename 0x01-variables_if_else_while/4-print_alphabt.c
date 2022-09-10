@@ -6,9 +6,9 @@
 int main(void)
 {
 char alphabet = 'a';
-if (alphabet <= 'z' && alphabet != 'g' && alphabet != 'e')
+if (alphabet <='z' && alphabet != 'g' && alphabet != 'e')
 {
-putchar('alphabet');
+putchar(alphabet);
 alphabet++;
 }
 putchar('\n');
