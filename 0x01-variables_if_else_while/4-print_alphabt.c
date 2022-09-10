@@ -8,11 +8,11 @@ int main(void)
 char alphabet = 'a';
 while (alphabet <= 'z')
 {
-if (alphabet != 'g' && alphabet != 'e')
+if (alphabet != 'q' && alphabet != 'e')
 {
 putchar(alphabet);
-alphabet++;
 }
+alphabet++;
 }
 putchar('\n');
 return (0);
