@@ -5,17 +5,17 @@
  */
 int main(void)
 {
-int num = '0';
-while (num <= '9')
+int hexdec = '0';
+while (hexdec <= '9')
 {
-putchar(num);
-num++;
+putchar(hexdec);
+hexdec++
 }
-char alph = 'a';
-while (alph <= 'f')
+hexdec = 'a';
+while (hexdec <= 'f')
 {
-putchar(alph);
-alph++
+putchar(hexdec);
+hexdec++;
 }
 putchar('\n');
 return (0);
