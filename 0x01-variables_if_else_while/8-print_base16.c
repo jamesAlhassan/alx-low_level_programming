@@ -9,7 +9,7 @@ int hexdec = '0';
 while (hexdec <= '9')
 {
 putchar(hexdec);
-hexdec++
+hexdec++;
 }
 hexdec = 'a';
 while (hexdec <= 'f')
