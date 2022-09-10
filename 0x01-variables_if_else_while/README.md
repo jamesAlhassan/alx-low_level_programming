@@ -7,3 +7,5 @@
 1-last_digit.c script - Checks the value of a number and prints and corresponding string
  2-print_alphabet.c script - Prints all the alphabets in lower case
   3-print_alphabets.c script - Prints all alphabets in lower and upper case
+
+  4-print_alphabt.c script -  Prints all the alphabets in lower case excluding q and e
