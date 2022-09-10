@@ -11,3 +11,4 @@
 5-print_numbers.c script - Prints numbers from 0- 9
 
 6-print_numberz.c script - Prints numbers from 0 -9 using putchar
+7-print_tebahpla.c script - Prints alphabets in reverse
