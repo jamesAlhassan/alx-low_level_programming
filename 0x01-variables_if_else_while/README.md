@@ -14,3 +14,4 @@
 7-print_tebahpla.c script - Prints alphabets in reverse
 8-print_base16.c script - prints hexadecimal numbers
 9-print_comb.c script -  prints all possible combinations of single-digit numbers.
+100-print_comb3.c - prints all possible different combinations of two digits.
