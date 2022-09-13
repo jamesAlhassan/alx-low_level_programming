@@ -22,3 +22,4 @@
 
 
 #### 0-putchar.c script - Prints To stdout
+#### 1-alphabet.c script - prints lower case alphabets
