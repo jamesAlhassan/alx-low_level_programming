@@ -9,28 +9,28 @@ void print_to_98(int n)
 {
 if (n < 98)
 {
-printf(n);
+printf("%d", n);
 _putchar(',');
 _putchar(' ');
 n++;
 }
 else if (n <= 98)
 {
-printf(n);
+printf("%d", n);
 }
 else if (n == 98)
 {
-printf(n);
+printf("%d", n);
 }
 else if (n > 98)
 {
-prontf(n);
+printf("%d", n);
 _putchar(',');
 _putchar(' ');
 n--;
 }
 else if (n >= 98)
 {
-printf(n);
+printf("%d", n);
 }
 }
