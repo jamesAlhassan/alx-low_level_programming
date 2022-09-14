@@ -24,3 +24,4 @@
 #### 0-putchar.c script - Prints To stdout
 #### 1-alphabet.c script - prints lower case alphabets
 #### 2-print_alphabet_x10.c script - prints lower case alphabets 1-x 
+#### 3-islower.c script - 1 if lower and 0 if not
