@@ -12,9 +12,9 @@ if (n <= 98)
 printf("%d, ", n);
 n++;
 }
-else (n > 98)
+else
 {
-printf("%d, ", n);
+printf("%d, \n", n);
 n--;
 }
 }
