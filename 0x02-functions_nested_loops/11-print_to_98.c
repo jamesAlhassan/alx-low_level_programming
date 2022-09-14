@@ -12,25 +12,30 @@ if (n < 98)
 printf("%d", n);
 _putchar(',');
 _putchar(' ');
+_putchar('\n');
 n++;
 }
 else if (n <= 98)
 {
 printf("%d", n);
+_putchar('\n');
 }
 else if (n == 98)
 {
 printf("%d", n);
+_putchar('\n');
 }
 else if (n > 98)
 {
 printf("%d", n);
 _putchar(',');
 _putchar(' ');
+_putchar('\n');
 n--;
 }
 else if (n >= 98)
 {
 printf("%d", n);
+_putchar('\n');
 }
 }
