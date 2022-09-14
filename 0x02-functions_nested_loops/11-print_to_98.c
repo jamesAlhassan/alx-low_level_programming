@@ -17,8 +17,7 @@ n++;
 }
 else if (n <= 98)
 {
-printf("%d", n);
-_putchar('\n');
+printf("%d\n", n);
 }
 else if (n == 98)
 {
