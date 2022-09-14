@@ -7,30 +7,30 @@
  */
 void print_to_98(int n)
 {
-if (n < 'b')
+if (n < 98)
 {
-_putchar(n);
+printf(n);
 _putchar(',');
 _putchar(' ');
 n++;
 }
-else if (n <= 'b')
+else if (n <= 98)
 {
-_putchar('b');
+printf(n);
 }
-else if (n == 'b')
+else if (n == 98)
 {
-_putchar(n);
+printf(n);
 }
-else if (n > 'b')
+else if (n > 98)
 {
-_putchar(n);
+prontf(n);
 _putchar(',');
 _putchar(' ');
 n--;
 }
-else if (n >= 'b')
+else if (n >= 98)
 {
-_putchar('b');
+printf(n);
 }
 }
