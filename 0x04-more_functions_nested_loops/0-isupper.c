@@ -7,12 +7,14 @@
 
 int _isupper(int c)
 {
-if (c >= 90)
-{
-return (0);
-}
-else
+if (c >= 'A' && c <= 'Z')
 {
 return (1);
 }
+else
+{
+return (0);
 }
+}
+
+
