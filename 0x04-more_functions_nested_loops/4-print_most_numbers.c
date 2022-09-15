@@ -12,8 +12,8 @@ while (i <= 57)
 if (i != 50 || i != 52)
 {
 _putchar(i);
-}
 i++;
+}
 }
 _putchar('\n');
 }
