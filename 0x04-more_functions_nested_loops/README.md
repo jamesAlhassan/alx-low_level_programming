@@ -18,3 +18,4 @@ The prototypes of all your functions and the prototype of the function _putchar 
 Don’t forget to push your header file
 
 ## 0-isupper.c- checks for uppercase character
+## 1-isdigit.c -  checks for a digit (0 through 9).
