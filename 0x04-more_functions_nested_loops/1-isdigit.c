@@ -5,7 +5,6 @@
 * @c: parameter to check
 * Return: 1 if c is digit and 0 if otherwise
 */
-
 int _isdigit(int c)
 {
 if (c >= '0' && c <= '9')
