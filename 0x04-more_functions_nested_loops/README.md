@@ -28,3 +28,5 @@ Don’t forget to push your header file
 ## 8-print_square.c - prints a square, followed by a new line.
 ## 9-fizz_buzz.c - prints the numbers from 1 to 100
 ## 10-print_triangle.c - prints a triangle, followed by a new line.
+## 100-prime_factor.c - prints prime factors of 1231952 are 2, 2, 2, 2, 37 and 2081.
+
