@@ -24,4 +24,5 @@ Don’t forget to push your header file
 ## 4-print_most_numbers.c - prints the numbers, from 0 to 9, followed by a new line. except 2 and 4
 ## 5-more_numbers.c - prints 10 times the numbers, from 0 to 14, followed by a new line.
 ## 6-print_line.c - draws a straight line in the terminal.
-7-print_diagonal.c - draws a diagonal line on the terminal.
+## 7-print_diagonal.c - draws a diagonal line on the terminal.
+## 8-print_square.c - prints a square, followed by a new line.
