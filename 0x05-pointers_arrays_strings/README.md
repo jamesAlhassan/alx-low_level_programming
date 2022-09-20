@@ -5,3 +5,5 @@
 1-swap.c script - a function that swaps the values of two integers.
 
 2-strlen.c script -  a function that returns the length of a string.
+
+3-puts.c script - a function that prints a string, followed by a new line, to stdout
