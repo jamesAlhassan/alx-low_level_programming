@@ -10,4 +10,6 @@
 
 4-print_rev.c script -  a function that prints a string, in reverse, followed by a new line.
 
+5-rev_string.c script -  a function that reverses a string.
+
 
