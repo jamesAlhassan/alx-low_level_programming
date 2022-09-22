@@ -19,3 +19,5 @@ The prototypes of all your functions and the prototype o
 
 
 0-strcat.c script - Concatenate two strings
+
+1-strncat.c script - a function that concatenates two strings. with n bytyes from src
