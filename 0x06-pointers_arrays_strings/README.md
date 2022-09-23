@@ -23,3 +23,5 @@ The prototypes of all your functions and the prototype o
 1-strncat.c script - a function that concatenates two strings. with n bytyes from src
 
 2-strncpy.c script -  a function that copies a string.
+
+3-strcmp.c script - a function that compares two strings.
