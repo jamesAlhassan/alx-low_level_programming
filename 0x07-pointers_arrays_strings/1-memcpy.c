@@ -9,14 +9,8 @@
 
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
-unsigned int i = 0, len = 0, j;
-/** Calculating the length of src **/
-while (src[i] != '\0')
-{
-len++;
-i++;
-}
-for (j = 0; j < len; j++)
+unsigned int j;
+for (j = 0; j < n; j++)
 {
 dest[j] = src[j];
 }
