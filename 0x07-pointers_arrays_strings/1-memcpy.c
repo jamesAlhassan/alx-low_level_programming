@@ -1,9 +1,9 @@
 
 /**
  * _memcpy - copies memory area.
- * @dest: copied to-  destination 
+ * @dest: copied to-  destination
  * @src: copied from-  source
- * n: bytes
+ * @n: bytes
  * Return: pointer to dest
  */
 
