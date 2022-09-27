@@ -23,3 +23,5 @@ Don’t forget to push your header file
 1-memcpy.c script - a function that copies memory area.
 
 2-strchr.c script -  a function that locates a character in a string.
+
+3-strspn.c script -  a function that gets the length of a prefix substring.
