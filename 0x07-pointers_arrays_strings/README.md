@@ -26,7 +26,10 @@ Don’t forget to push your header file
 
 3-strspn.c script -  a function that gets the length of a prefix substring.
 
+5-strstr.c script -  a function that locates a substring.
+
 4-strpbrk.c script - a function that searches a string for any of a set of bytes.
 
 7-print_chessboard.c script - a function that prints the chessboard.
+
 
