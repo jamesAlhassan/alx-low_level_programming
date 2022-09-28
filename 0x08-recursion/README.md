@@ -16,3 +16,7 @@ The prototypes of all your functions and the prototype of the function _putchar 
 Don’t forget to push your header file
 You are not allowed to use any kind of loops
 You are not allowed to use static variables
+
+
+
+0-puts_recursion.c -  a function that prints a string, followed by a new line.
