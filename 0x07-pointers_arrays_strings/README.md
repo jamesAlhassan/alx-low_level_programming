@@ -32,4 +32,7 @@ Don’t forget to push your header file
 
 7-print_chessboard.c script - a function that prints the chessboard.
 
+100-set_string.c - a function that sets the value of a pointer to a char.
+
 101-crackme_password script - a file that contains the password for the crackme2 executable.
+
