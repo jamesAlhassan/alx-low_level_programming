@@ -29,3 +29,4 @@ You are not allowed to use static variables
 
 4-pow_recursion.c script - a function that returns the value of x raised to the power of y.
 
+5-sqrt_recursion.c script -  a function that returns the natural square root of a number.
