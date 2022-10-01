@@ -21,3 +21,8 @@ No more than 5 functions per file
 The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 Don’t forget to push your header file
 You are allowed to use the standard library
+
+0-whatsmyname.c script - a program that prints its name, followed by a new line.
+
+If you rename the program, it will print the new name, without having to compile it again
+You should not remove the path before the name of the program
