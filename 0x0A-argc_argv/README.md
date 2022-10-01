@@ -27,6 +27,12 @@ You are allowed to use the standard library
 If you rename the program, it will print the new name, without having to compile it again
 You should not remove the path before the name of the program
 
+3-mul.c - a program that multiplies two numbers.
+
+Your program should print the result of the multiplication, followed by a new line
+You can assume that the two numbers and result of the multiplication can be stored in an integer
+If the program does not receive two arguments, your program should print Error, followed by a new line, and return 1
+
 4-add.c a program that adds positive numbers.
 
 Print the result, followed by a new line
