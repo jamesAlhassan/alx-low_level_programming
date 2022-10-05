@@ -33,3 +33,10 @@ Don’t forget to push your header file
 1-strdup.c script - a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
 2-str_concat.c - a function that concatenates two strings.
+
+3-alloc_grid.c - a function that returns a pointer to a 2 dimensional array of integers.
+
+Prototype: int **alloc_grid(int width, int height);
+Each element of the grid should be initialized to 0
+The function should return NULL on failure
+If width or height is 0 or negative, return NULL
