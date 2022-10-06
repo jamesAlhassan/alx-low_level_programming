@@ -40,3 +40,11 @@ Prototype: int **alloc_grid(int width, int height);
 Each element of the grid should be initialized to 0
 The function should return NULL on failure
 If width or height is 0 or negative, return NULL
+
+100-argstostr.c - a function that concatenates all the arguments of your program.
+
+Prototype: char *argstostr(int ac, char **av);
+Returns NULL if ac == 0 or av == NULL
+Returns a pointer to a new string, or NULL if it fails
+Each argument should be followed by a \n in the new string
+
