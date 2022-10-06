@@ -1,9 +1,9 @@
 #include <stdlib.h>
 
 /**
- * argstostr - concatenates all the arguments 
+ * argstostr - concatenates all the arguments
  * @ac: number of arguments
- * av: strings to concatenate
+ * @av: strings to concatenate
  * Return: pointer to the new string
  */
 
