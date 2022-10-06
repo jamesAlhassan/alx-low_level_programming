@@ -41,6 +41,9 @@ Each element of the grid should be initialized to 0
 The function should return NULL on failure
 If width or height is 0 or negative, return NULL
 
+4-free_grid.c- a function that frees a 2 dimensional grid previously created by your alloc_grid function.
+
+
 100-argstostr.c - a function that concatenates all the arguments of your program.
 
 Prototype: char *argstostr(int ac, char **av);
