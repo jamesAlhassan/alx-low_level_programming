@@ -36,3 +36,12 @@ In the following examples, the main.c files are shown as examples. You can use t
 The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 Don’t forget to push your header file
 
+
+1-string_nconcat.c - a function that concatenates two strings.
+
+Prototype: char *string_nconcat(char *s1, char *s2, unsigned int n);
+The returned pointer shall point to a newly allocated space in memory, which contains s1, followed by the first n bytes of s2, and null terminated
+If the function fails, it should return NULL
+If n is greater or equal to the length of s2 then use the entire string s2
+if NULL is passed, treat it as an empty string
+
