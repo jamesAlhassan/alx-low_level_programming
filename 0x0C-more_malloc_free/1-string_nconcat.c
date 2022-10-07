@@ -10,7 +10,7 @@
 
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
-	unsigned int s1_Len, s2_Len, i, j;
+	unsigned int s1_Len, s2_Len, i;
 	char *ptr;
 
 	if (s1 == NULL)
@@ -31,7 +31,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	if (ptr == NULL)
 		return (NULL);
 
-	for (i = 0, j = 0; i < (s1_Len + s2_Len + 1); i++)
+	for (i = 0; i < (s1_Len + s2_Len + 1); i++)
 	{
 		i < s1_Len ? (ptr[i] = s1[i]) : (ptr[i] = s2[i - s1_Len]);
 	}
