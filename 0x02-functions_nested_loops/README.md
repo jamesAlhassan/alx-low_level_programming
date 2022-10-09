@@ -32,7 +32,7 @@
 Don’t forget to push your header file
 
 
- 0-putchar.c script - Prints To stdout
+ 0-putchar.c script -  a program that prints _putchar, followed by a new line
 
  1-alphabet.c script - prints lower case alphabets
 
