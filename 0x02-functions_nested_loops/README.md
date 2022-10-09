@@ -67,3 +67,7 @@ Returns -1 and prints - if n is less than zero
 6-abs.c - a function that computes the absolute value of an integer.
 
 Prototype: int _abs(int);
+
+8-24_hours.c - a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+Prototype: void jack_bauer(void);
