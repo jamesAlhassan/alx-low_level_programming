@@ -45,6 +45,10 @@ You can only use _putchar twice in your code
 Prototype: void print_alphabet_x10(void);
 You can only use _putchar twice in your code
 
-3-islower.c script - 1 if lower and 0 if not
+3-islower.c script - a function that checks for lowercase character.
+
+Prototype: int _islower(int c);
+Returns 1 if c is lowercase
+Returns 0 otherwise
 
 
