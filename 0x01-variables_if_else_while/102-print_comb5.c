@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Prints all possible combinations of a pair of two diit-pair numbers
  * Return: 0 if success.
