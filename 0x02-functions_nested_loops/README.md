@@ -34,7 +34,11 @@ Don’t forget to push your header file
 
  0-putchar.c script -  a program that prints _putchar, followed by a new line
 
- 1-alphabet.c script - prints lower case alphabets
+ 1-alphabet.c script - pa function that prints the alphabet, in lowercase, followed by a new line.
+
+Prototype: void print_alphabet(void);
+You can only use _putchar twice in your code
+
 
  2-print_alphabet_x10.c script - prints lower case alphabets 1-x 
 
