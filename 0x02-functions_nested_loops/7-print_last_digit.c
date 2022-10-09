@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_last_digit - prints the last digit of the given vakue
  * @value: the given value
@@ -7,18 +8,18 @@
 
 int print_last_digit(int value)
 {
-	int remain = value % 10;
+	int remainder = value % 10;
 
-	if (remain < 0)
+	if (remainder < 0)
 	{
-		remain = -(remain);
-		_putchar(remain + '0');
-		return (remain);
+		remainder = -(remainder);
+		_putchar(remainder + '0');
+		return (remainder);
 	}
 	else
 	{
-		_putchar(remain + '0');
-		return (remain);
+		_putchar(remainder + '0');
+		return (remainder);
 	}
 	return (0);
 }
