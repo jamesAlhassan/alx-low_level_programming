@@ -77,3 +77,6 @@ Returns the value of the last digit
 
 Prototype: void jack_bauer(void);
 
+9-times_table.c - a function that prints the 9 times table, starting with 0.
+
+Prototype: void times_table(void);
