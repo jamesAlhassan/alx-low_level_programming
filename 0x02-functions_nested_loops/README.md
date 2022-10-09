@@ -80,3 +80,7 @@ Prototype: void jack_bauer(void);
 9-times_table.c - a function that prints the 9 times table, starting with 0.
 
 Prototype: void times_table(void);
+ 
+10-add.c -  a function that adds two integers and returns the result.
+
+Prototype: int add(int, int);
