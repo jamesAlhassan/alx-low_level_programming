@@ -40,7 +40,10 @@ Prototype: void print_alphabet(void);
 You can only use _putchar twice in your code
 
 
- 2-print_alphabet_x10.c script - prints lower case alphabets 1-x 
+ 2-print_alphabet_x10.c script - pa function that prints 10 times the alphabet, in lowercase, followed by a new line.
+
+Prototype: void print_alphabet_x10(void);
+You can only use _putchar twice in your code
 
 3-islower.c script - 1 if lower and 0 if not
 
