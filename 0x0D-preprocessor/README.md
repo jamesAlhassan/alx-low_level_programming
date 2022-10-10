@@ -16,4 +16,4 @@ In the following examples, the main.c files are shown as examples. You can use t
 Don’t forget to push your header file
 All your header files should be include guarded
 
-
+0-object_like_macro.h - a header file that defines a macro named SIZE as an abbreviation for the token 1024.
