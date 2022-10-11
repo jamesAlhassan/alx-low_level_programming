@@ -21,3 +21,5 @@ dog.h - struct dog with the following elements:
 name, type = char *
 age, type = float
 owner, type = char *
+
+1-init_dog.c- a function that initialize a variable of type struct dog
