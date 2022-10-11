@@ -14,3 +14,10 @@ In the following examples, the main.c files are shown as examples. You can use t
 Don’t forget to push your header file
 All your header files should be include guarded
 
+
+
+dog.h - struct dog with the following elements:
+
+name, type = char *
+age, type = float
+owner, type = char *
