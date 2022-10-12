@@ -97,3 +97,5 @@ If n is greater than 15 or less than 0 the function should not print anything
 102-fibonacci.c - a program that prints the first 50 Fibonacci numbers, starting with 1 and 2
 
 103-fibonacci.c - rogram that finds and prints the sum of the even-valued terms
+
+104-fibonacci.c - a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2
