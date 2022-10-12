@@ -3,6 +3,7 @@
   * main - print the first 50 fibonacci numbers.
   * Return: void
   */
+
 int main(void)
 {
 	unsigned long count, x, y, z;
