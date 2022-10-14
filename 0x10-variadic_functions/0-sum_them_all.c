@@ -22,5 +22,6 @@ int sum_them_all(const unsigned int n, ...)
 	for (count = 0; count < n; count++)
 		sum += va_arg(my_sumed_numbers, int);
 	va_end(my_sumed_numbers);
+
 	return (sum);
 }
