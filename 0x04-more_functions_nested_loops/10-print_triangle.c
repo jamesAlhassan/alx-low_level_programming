@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * print_triangle - prints a triangle
  * @size: size of a triangle
  */
+
 void print_triangle(int size)
 {
 	if (size > 0)
