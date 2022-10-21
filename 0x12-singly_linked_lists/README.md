@@ -19,4 +19,10 @@ The prototypes of all your functions and the prototype of the function _putchar 
 Don’t forget to push your header file
 All your header files should be include guarded
 
+0-print_list.c - a function that prints all the elements of a list_t list.
 
+Prototype: size_t print_list(const list_t *h);
+Return: the number of nodes
+Format: see example
+If str is NULL, print [0] (nil)
+You are allowed to use printf
