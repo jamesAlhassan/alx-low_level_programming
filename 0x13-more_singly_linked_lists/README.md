@@ -34,4 +34,6 @@ Please use this data structure for this project:
 
 6-pop_listint.c -  a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
 
+7-get_nodeint.c - a function that returns the nth node of a listint_t linked list.
+
 
