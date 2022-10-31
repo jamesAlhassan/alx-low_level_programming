@@ -34,3 +34,5 @@ The created file must have those permissions: rw-------. If the file already exi
 if the file already exists, truncate it
 if filename is NULL return -1
 if text_content is NULL create an empty file
+
+2-append_text_to_file.c - a function that appends text at the end of a file.
