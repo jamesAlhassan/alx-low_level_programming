@@ -78,3 +78,9 @@ if it is not possible to add the new node at index idx, do not add the new node 
 Prototype: int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
 where index is the index of the node that should be deleted. Index starts at 0
 Returns: 1 if it succeeded, -1 if it failed
+
+100-password - Find the password for crackme4.
+
+Save the password in the file 100-password
+Your file should contain the exact password, no new line, no extra space
+Hint: The program prints “OK” when the password is correct
