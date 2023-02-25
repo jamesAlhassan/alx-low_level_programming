@@ -25,3 +25,12 @@ Version of gcc: 9.3.0
 Version of make: GNU Make 4.2.1
 All your files should end with a new line
 A README.md file, at the root of the folder of the project, is mandatory
+
+0-Makefile - Create your first Makefile.
+
+Requirements:
+
+name of the executable: school
+rules: all
+The all rule builds your executable
+variables: none
