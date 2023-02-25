@@ -27,6 +27,6 @@ def island_perimeter(grid):
     for i in range(len(grid)):
         for j in range(len(grid[i])):
             if grid[i][j]:
-                perimeter += num_water_neighbors(grid, i, j)
+                perimeter += num_water(grid, i, j)
 
     return perimeter
